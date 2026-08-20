@@ -30,3 +30,6 @@ Thumbs.db
 
 # Streamlit secrets
 .streamlit/secrets.toml
+
+# Large dataset
+data/PhiUSIIL_Phishing_URL_Dataset.csv
